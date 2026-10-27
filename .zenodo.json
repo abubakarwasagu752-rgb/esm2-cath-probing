@@ -1,0 +1,9 @@
+{
+  "title": "Leakage-controlled probing of CATH structural hierarchy across ESM-2 layers: code and tables",
+  "upload_type": "software",
+  "creators": [
+    {"name": "Saadu, Abubakar", "affiliation": "King Mongkut's University of Technology Thonburi", "orcid": "0009-0003-7989-9249"},
+    {"name": "Jongruja, Nujarin", "affiliation": "King Mongkut's University of Technology Thonburi", "orcid": "0000-0002-8839-2568"}
+  ],
+  "keywords": ["protein language models", "ESM-2", "CATH", "linear probing", "data leakage"]
+}
