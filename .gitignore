@@ -1,0 +1,5 @@
+emb/
+results_v2/
+*.npy
+*.tar.gz
+logs/

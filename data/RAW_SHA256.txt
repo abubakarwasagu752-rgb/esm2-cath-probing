@@ -1,0 +1,2 @@
+39ba309f1ce007bebb3c0b1338b97f31c4638f0fce012a10acf8ef21ad5c607e  cath-domain-list-v4_3_0.txt
+d5356fa2dc5228fa9f5394b7ceb2c18a057ac4702eec66b6ff35173276952874  cath-domain-seqs-v4_3_0.fa

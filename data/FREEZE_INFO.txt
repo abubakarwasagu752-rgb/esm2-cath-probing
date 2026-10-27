@@ -1,0 +1,3 @@
+mmseqs fcf516aba34be4569b3eb5bda2b9db9e26a8f278
+torch/transformers: 2.6.0+cu124 5.20.2
+frozen_utc 2026-10-23T09:54:35Z
