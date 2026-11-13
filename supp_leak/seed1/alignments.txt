@@ -1,0 +1,34 @@
+# test 5m9mA00 vs train 5et4A00  (MMseqs2 identity 34.7%, E=4.6e-19)
+target            8 HFLTQHYDAKPQ-GRDDRYCESIMRRRGLTSP-CKDINTFIHGNKRSIKAICENKN--GN
+                  0 ||..||.|....-.....||...|..|.||..-||..|||.|.......|.|..||--..
+query             6 HFEHQHMDSSTSAASSSNYCNQMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACK
+
+target           64 PHRENLRISKSSFPVTTCKLHGGSPWPPCQYRATAGFRNVVVACENG--LPVHLDQSI
+                 60 ....|...|.|....|.|...|.|..|.|.|..|.......||||..--.|||.|.|.
+query            66 NGQTNCYQSYSTMSITDCRETGSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV
+
+target          120
+                118
+query           124
+
+
+# test 3ue7B00 vs train 1ed0A00  (MMseqs2 identity 52.3%, E=3.4e-12)
+target            1 TCCPSIVAKSNFNACRLPGTPEALCATYTGCIIIPGATCPGDY 44
+                  0 .|||........|||||.|.|...||...||.||.|.|||.|| 43
+query             1 SCCPNTTGRNIYNACRLTGAPRPTCAKLSGCKIISGSTCPSDY 44
+
+
+# test 1dt9A02 vs train 3e1yC02  (MMseqs2 identity 82.8%, E=6.6e-64)
+target            0 DSKFGFIVIDGSGALFGTLQGNTREVLHKFTV-----------------------RHNYV
+                  0 ||||||||||||||||||||||||||||||||-----------------------|||||
+query            11 DSKFGFIVIDGSGALFGTLQGNTREVLHKFTVDLPKKHGRGGQSALRFARLRMEKRHNYV
+
+target           37 RKVAETAVQLFISGDKVNVAGLVLAGSADFKTELSQSDMFDQRLQSKVLKLVDISYGGEN
+                 60 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query            71 RKVAETAVQLFISGDKVNVAGLVLAGSADFKTELSQSDMFDQRLQSKVLKLVDISYGGEN
+
+target           97 GFNQAIELSTEVLS 111
+                120 |||||||||||||| 134
+query           131 GFNQAIELSTEVLS 145
+
+

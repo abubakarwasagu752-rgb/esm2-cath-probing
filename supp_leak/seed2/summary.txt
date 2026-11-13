@@ -1,0 +1,8 @@
+test domains: 4020
+test domains with a rule-A hit to a training domain (leaked): 625 (15.5%)
+  of which contained in a longer training domain: 333 (8.3%)
+probe: 650M layer 28, C=0.1, iterations 64, max gradient 9.6e-05
+topology balanced accuracy on naive-split test set: 0.562
+plain accuracy, test domains whose topology occurs in training: 0.613
+  leaked test domains (n=617): 0.747
+  non-leaked test domains (n=3016): 0.586

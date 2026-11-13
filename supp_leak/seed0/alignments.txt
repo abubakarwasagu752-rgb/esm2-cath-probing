@@ -1,0 +1,34 @@
+# test 3qn0A00 vs train 3i2bA00  (MMseqs2 identity 33.0%, E=2.6e-12)
+target            8 TFEAAHRL--------PHVPEGHKCGRL--HGHSFMVRLEITGEVDPHTGWIIDFAELKA
+                  0 .|.|.|||--------.......||...--|||...|.....||.||.||.....|.||.
+query            14 SFSASHRLYSKFLSDEENLKLFGKCNNPNGHGHNYKVVVTVHGEIDPATGMVMNLADLKK
+
+target           58 AFKPT-YERLDHHYLN-DIPGLEN--PTSEVLAKWIWDQVKPVVP--LLSAVMVKETCTA
+                 60 .....-...|||..|.-|.|....--.|.|..|..|||....|.|--.|..|.|.||...
+query            74 YMEEAIMQPLDHKNLDMDVPYFADVVSTTENVAVYIWDNLQKVLPVGVLYKVKVYETDNN
+
+target          112 GCIYRGE 119
+                120 ...|.|| 127
+query           134 IVVYKGE 141
+
+
+# test 1t7dA02 vs train 1b12A02  (MMseqs2 identity 67.8%, E=8.4e-40)
+target            0 KVTYDPVSKELTIQPGCSSGQACENALPVTYSNVEPSDFVQTFSRRNGGEATSGFFEVPK
+                  0 |||||||||||||||||||||||||||||||||||-------------------------
+query             0 KVTYDPVSKELTIQPGCSSGQACENALPVTYSNVE-------------------------
+
+target           60 NETKENGIRLSERKETLGDVTHRILTVPIAQDQVGMYYQQPGQQLATWI 109
+                 60 ----------||||||||||||||||||||||||||||||||||||||| 109
+query            35 ----------SERKETLGDVTHRILTVPIAQDQVGMYYQQPGQQLATWI  74
+
+
+# test 3bg5D03 vs train 4hntA04  (MMseqs2 identity 70.4%, E=3.2e-36)
+target            0 LDRGTKTLEYIGNVTI----------------------------NGMRNGETVEIEIDKG
+                  0 ||||||||||||||||----------------------------.|||||||||||||||
+query             3 LDRGTKTLEYIGNVTILYPKVYEQYIQTRNQYGNLSLLDTPTFFFGMRNGETVEIEIDKG
+
+target           32 KRLIIKLETISEPDENGNRTIYYAMNGQARRIYIKDEN  70
+                 60 ||||||||||||||||||||||||||||||||||||||  98
+query            63 KRLIIKLETISEPDENGNRTIYYAMNGQARRIYIKDEN 101
+
+

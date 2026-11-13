@@ -25,3 +25,9 @@ CATH v4.3.0 is from the CATH database. ESM-2 weights are from the ESM repository
 
 ## Licence
 See `LICENSE`.
+
+## Supplementary Figure S4: naive-split leakage examples
+`13_leak_examples.py` (run with `leak.slurm`, GPU) builds a naive split from `data/clusters_30.tsv`,
+counts test domains with a rule-A hit to a training domain (`data/allvsall_hits.tsv`), fits a topology
+probe (ESM-2 650M, layer 28, C = 0.1) and writes example pairs. Outputs for seeds 0-2 are in `supp_leak/`.
+Structures were superposed in UCSF Chimera (MatchMaker, C-alpha) from the CATH v4.3.0 domain files.
